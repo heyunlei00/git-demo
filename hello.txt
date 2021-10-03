@@ -8,9 +8,8 @@ hello atguigu!hellogit!x
 hello atguigu!hellogit!x
 hello atguigu!hellogit!x
 hello atguigu!hellogit!x
-hello atguigu!hellogit!x
-hello atguigu!hellogit!x
 master commit. 0-0
 ssh heyunlei
 ssh免密登录之后再push.
 github更新 看看gitee会不会自动更新
+我是团队外的，进行修改
